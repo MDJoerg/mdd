@@ -12,7 +12,7 @@ Dieses Repository enthält Unterlagen und zusätzliche Informationen zu meinen V
 ### Vortrag "Datengetriebene Fertigung" 
 
 - [MDD Session](https://www.md-devdays.de/act-details/1000800?tabIndex=1&preserveScroll=true)
-- Der Vortrag wurde zusammen mit Tobias Kutzler vom Fraunhofer IFF gehalten
+- Der Vortrag wurde zusammen mit Tobias Kutzler vom [Fraunhofer IFF Magdeburg](https://www.elbfabrik-magdeburg.de/) gehalten
 - Wir haben Szenarien aus der Praxis der [Elbfabrik Magdeburg](https://www.elbfabrik-magdeburg.de/) gezeigt
 - [Mein Vortrag](mdd26/mdd26_datengetriebene_fertigung_sap_abap.pdf) mit SAP Perspektive
 - Die SAP Paletten Demo wurde auch [hier](https://youtu.be/bf_Fgqs-_-s) schon (mit mehr Einblick in die SAP Entwicklung) gezeigt
@@ -28,13 +28,19 @@ Dieses Repository enthält Unterlagen und zusätzliche Informationen zu meinen V
 - Available Plugins for the ABAP SDK: search for "B-Tocs" at [dotabap.org](https://dotabap.org/)
 - Installation with [abapGit](https://abapgit.org)
 
+## 2023
+
+### Vortrag "Einsatz der neuen SAP CDS Technologie in analytischen FIORI Apps"
+
+- [MDD Session](https://md-devdays.de/act-details/1000114)
+- [Mein Vortrag](mdd23/MDD2023%20SAP%20CDS.pdf)
 
 
+### Vortrag "Data Analytics mit Python und SAP – Praxiserfahrungen"
 
-
-
-
-
+- [MDD Session](https://md-devdays.de/act-details/1000112)
+- [Mein Vortrag](mdd23/MDD2023%20SAP%20Analytics.pdf)
+- [Pyhton Beispiele und Jupyter Notebooks](mdd23/Python/)
 
 
 
