@@ -42,6 +42,16 @@ Dieses Repository enthält Unterlagen und zusätzliche Informationen zu meinen V
 - [Mein Vortrag](mdd23/MDD2023%20SAP%20Analytics.pdf)
 - [Pyhton Beispiele und Jupyter Notebooks](mdd23/Python/)
 
+## 2022
+
+### Vortrag ""Virtuelle Datenmodelle im SAP - Wissenswertes für SAP Kunden und Dienstleister" 
+
+- [MDD Session](https://md-devdays.de/act-detail/1000037)
+- [Python Examples](mdd22/Python/):
+    - ODATA WebService Client 
+    - REST WebService Client (GET/POST/DELETE)
+    - WebSocket via ABAP Push Channel (Client/Listener)
+- [ABAP Examples](https://github.com/MDJoerg/mdd22_abap).
 
 
 --- 
